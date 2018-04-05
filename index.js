@@ -1,7 +1,7 @@
  // server.js
  var express = require('express');
  var app = express();
- var port = 4020;
+ var port = 80;
  
  // start the server
  app.listen(port, function() {
